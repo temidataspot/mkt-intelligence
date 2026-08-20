@@ -1,16 +1,16 @@
 # Marketing Intelligence Project
 
 **Built by Temi Priscilla Jokotola**
+*Looker [Google Data Studio]* → [![AI](https://img.shields.io/badge/Looker%20Dashboard-250e14)](https://datastudio.google.com/reporting/e034ed39-f62b-4f19-bbaa-2bd30f7f4cb4)
 
-A self-directed portfolio project simulating the work of a Marketing
-Intelligence / Analytics role at a hybrid e-commerce + SaaS company:
+
+Intelligence for a hybrid e-commerce + SaaS company:
 building a data pipeline from scratch, writing SQL analysis from
-first principles, running a real A/B test, building and validating
-three machine learning models, and shipping two different dashboards
-on top of it all.
+first principles, running A/B tests, building and validating
+three machine learning models, and shipping two different dashboards.
 
-Everything in this project — the data, the schema, the pipeline, the
-analysis, the models — was built end-to-end, including finding and
+The data, the schema, the pipeline, the
+analysis, the models were built end-to-end, including finding and
 fixing real data-quality issues along the way (see "Lessons & fixes
 along the way" below).
 
@@ -18,14 +18,14 @@ along the way" below).
 
 ## Tech stack
 
-- **PostgreSQL** — the warehouse
-- **Python** (pandas, psycopg2, SQLAlchemy, Faker) — data simulation and pipeline
-- **SQL** — all analysis, written by hand (no ORM query builders)
-- **scikit-learn** — churn prediction, purchase propensity, LTV prediction
-- **statsmodels** — A/B test significance testing
-- **Jupyter** — ML model development
-- **Looker Studio** — BI dashboard (connected via Google Sheets)
-- **React + Recharts** — a second, fully interactive dashboard
+- **PostgreSQL**: the warehouse
+- **Python**: (pandas, psycopg2, SQLAlchemy, Faker) — data simulation and pipeline
+- **SQL**: all analysis, written by hand (no ORM query builders)
+- **scikit-learn**: churn prediction, purchase propensity, LTV prediction
+- **statsmodels**: A/B test significance testing
+- **Jupyter**: ML model development
+- **Looker Studio**: BI dashboard (connected via Google Sheets)
+- **React + Recharts**: a second, fully interactive dashboard
 
 ---
 
