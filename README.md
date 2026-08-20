@@ -1,6 +1,8 @@
 # Marketing Intelligence Project
 
 **Built by Temi Priscilla Jokotola**
+
+
 *Looker [Google Data Studio]* → [![AI](https://img.shields.io/badge/Looker%20Dashboard-250e14)](https://datastudio.google.com/reporting/e034ed39-f62b-4f19-bbaa-2bd30f7f4cb4)
 
 
