@@ -1,0 +1,109 @@
+acquisition_channel,country,customer_type,customer_count
+Google,United States,ecommerce,1456
+Meta,United States,ecommerce,1257
+Organic,United States,ecommerce,1038
+Google,United States,saas,805
+Meta,United States,saas,691
+Organic,United States,saas,572
+Direct,United States,ecommerce,495
+Referral,United States,ecommerce,493
+Google,United Kingdom,ecommerce,482
+Google,United States,both,422
+Google,Nigeria,ecommerce,412
+Meta,United Kingdom,ecommerce,407
+Google,Germany,ecommerce,350
+Meta,Nigeria,ecommerce,342
+Google,Canada,ecommerce,339
+Organic,United Kingdom,ecommerce,333
+Meta,United States,both,327
+Organic,Nigeria,ecommerce,301
+Meta,Canada,ecommerce,290
+Meta,Germany,ecommerce,278
+Direct,United States,saas,265
+Referral,United States,saas,257
+Google,United Kingdom,saas,256
+Google,India,ecommerce,254
+Organic,United States,both,243
+Meta,India,ecommerce,239
+Email,United States,ecommerce,217
+Meta,United Kingdom,saas,213
+Organic,Germany,ecommerce,209
+Organic,Canada,ecommerce,208
+Google,Nigeria,saas,204
+Meta,Nigeria,saas,184
+Google,Canada,saas,178
+Organic,India,ecommerce,171
+Google,Germany,saas,168
+Organic,United Kingdom,saas,165
+Direct,United Kingdom,ecommerce,158
+Organic,Nigeria,saas,156
+Meta,Germany,saas,155
+Referral,United Kingdom,ecommerce,150
+Google,India,saas,149
+Meta,Canada,saas,148
+Google,United Kingdom,both,131
+Direct,United States,both,129
+Direct,Nigeria,ecommerce,127
+Direct,Canada,ecommerce,126
+Referral,United States,both,124
+Email,United States,saas,122
+Organic,Germany,saas,121
+Organic,Canada,saas,121
+Google,Nigeria,both,120
+Referral,Nigeria,ecommerce,117
+Meta,India,saas,108
+Referral,Canada,ecommerce,107
+Direct,Germany,ecommerce,105
+Meta,United Kingdom,both,104
+Organic,United Kingdom,both,103
+Organic,India,saas,103
+Direct,United Kingdom,saas,98
+Referral,United Kingdom,saas,98
+Referral,India,ecommerce,92
+Direct,India,ecommerce,91
+Google,Germany,both,85
+Google,Canada,both,84
+Email,United Kingdom,ecommerce,84
+Meta,Nigeria,both,84
+Organic,Nigeria,both,84
+Referral,Germany,ecommerce,83
+Meta,Canada,both,82
+Email,United States,both,78
+Email,Nigeria,ecommerce,72
+Email,Germany,ecommerce,71
+Google,India,both,70
+Direct,Nigeria,saas,66
+Referral,Nigeria,saas,66
+Direct,Canada,saas,65
+Organic,Germany,both,65
+Direct,Germany,saas,63
+Meta,Germany,both,60
+Referral,Canada,saas,60
+Email,Canada,ecommerce,58
+Direct,India,saas,58
+Referral,Germany,saas,58
+Meta,India,both,57
+Referral,India,saas,53
+Organic,Canada,both,51
+Referral,United Kingdom,both,50
+Email,India,ecommerce,48
+Direct,United Kingdom,both,45
+Direct,Nigeria,both,44
+Email,United Kingdom,saas,41
+Organic,India,both,40
+Referral,Nigeria,both,35
+Direct,Canada,both,33
+Direct,India,both,33
+Email,Nigeria,saas,31
+Direct,Germany,both,29
+Referral,Canada,both,28
+Referral,India,both,27
+Referral,Germany,both,26
+Email,Canada,saas,24
+Email,Germany,saas,24
+Email,India,saas,24
+Email,India,both,20
+Email,United Kingdom,both,18
+Email,Canada,both,15
+Email,Germany,both,12
+Email,Nigeria,both,12

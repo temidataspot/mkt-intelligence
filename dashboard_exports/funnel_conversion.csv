@@ -1,0 +1,6 @@
+event_name,event_count,pct_of_total,pct_of_previous_stage
+page_view,98206,100.0,
+view_item,53980,55.0,55.0
+add_to_cart,16304,16.6,30.2
+begin_checkout,9013,9.2,55.3
+purchase,5857,6.0,65.0

@@ -1,0 +1,1082 @@
+{
+  "customer_growth": [
+    {
+      "year": 2024,
+      "month": "Aug",
+      "month_num": 8,
+      "customers": 398
+    },
+    {
+      "year": 2024,
+      "month": "Sep",
+      "month_num": 9,
+      "customers": 799
+    },
+    {
+      "year": 2024,
+      "month": "Oct",
+      "month_num": 10,
+      "customers": 819
+    },
+    {
+      "year": 2024,
+      "month": "Nov",
+      "month_num": 11,
+      "customers": 871
+    },
+    {
+      "year": 2024,
+      "month": "Dec",
+      "month_num": 12,
+      "customers": 879
+    },
+    {
+      "year": 2025,
+      "month": "Jan",
+      "month_num": 1,
+      "customers": 806
+    },
+    {
+      "year": 2025,
+      "month": "Feb",
+      "month_num": 2,
+      "customers": 774
+    },
+    {
+      "year": 2025,
+      "month": "Mar",
+      "month_num": 3,
+      "customers": 818
+    },
+    {
+      "year": 2025,
+      "month": "Apr",
+      "month_num": 4,
+      "customers": 800
+    },
+    {
+      "year": 2025,
+      "month": "May",
+      "month_num": 5,
+      "customers": 794
+    },
+    {
+      "year": 2025,
+      "month": "Jun",
+      "month_num": 6,
+      "customers": 811
+    },
+    {
+      "year": 2025,
+      "month": "Jul",
+      "month_num": 7,
+      "customers": 873
+    },
+    {
+      "year": 2025,
+      "month": "Aug",
+      "month_num": 8,
+      "customers": 861
+    },
+    {
+      "year": 2025,
+      "month": "Sep",
+      "month_num": 9,
+      "customers": 804
+    },
+    {
+      "year": 2025,
+      "month": "Oct",
+      "month_num": 10,
+      "customers": 881
+    },
+    {
+      "year": 2025,
+      "month": "Nov",
+      "month_num": 11,
+      "customers": 847
+    },
+    {
+      "year": 2025,
+      "month": "Dec",
+      "month_num": 12,
+      "customers": 876
+    },
+    {
+      "year": 2026,
+      "month": "Jan",
+      "month_num": 1,
+      "customers": 816
+    },
+    {
+      "year": 2026,
+      "month": "Feb",
+      "month_num": 2,
+      "customers": 767
+    },
+    {
+      "year": 2026,
+      "month": "Mar",
+      "month_num": 3,
+      "customers": 851
+    },
+    {
+      "year": 2026,
+      "month": "Apr",
+      "month_num": 4,
+      "customers": 836
+    },
+    {
+      "year": 2026,
+      "month": "May",
+      "month_num": 5,
+      "customers": 859
+    },
+    {
+      "year": 2026,
+      "month": "Jun",
+      "month_num": 6,
+      "customers": 860
+    },
+    {
+      "year": 2026,
+      "month": "Jul",
+      "month_num": 7,
+      "customers": 811
+    },
+    {
+      "year": 2026,
+      "month": "Aug",
+      "month_num": 8,
+      "customers": 489
+    }
+  ],
+  "spend_trend": [
+    {
+      "year": 2024,
+      "month": "Aug",
+      "month_num": 8,
+      "channel": "Google",
+      "spend": 1835.3,
+      "conversions": 71
+    },
+    {
+      "year": 2024,
+      "month": "Aug",
+      "month_num": 8,
+      "channel": "Meta",
+      "spend": 1195.51,
+      "conversions": 98
+    },
+    {
+      "year": 2024,
+      "month": "Sep",
+      "month_num": 9,
+      "channel": "Meta",
+      "spend": 2893.44,
+      "conversions": 274
+    },
+    {
+      "year": 2024,
+      "month": "Sep",
+      "month_num": 9,
+      "channel": "Google",
+      "spend": 4503.29,
+      "conversions": 205
+    },
+    {
+      "year": 2024,
+      "month": "Oct",
+      "month_num": 10,
+      "channel": "Google",
+      "spend": 5397.31,
+      "conversions": 233
+    },
+    {
+      "year": 2024,
+      "month": "Oct",
+      "month_num": 10,
+      "channel": "Meta",
+      "spend": 2551.45,
+      "conversions": 236
+    },
+    {
+      "year": 2024,
+      "month": "Nov",
+      "month_num": 11,
+      "channel": "Google",
+      "spend": 5024.17,
+      "conversions": 210
+    },
+    {
+      "year": 2024,
+      "month": "Nov",
+      "month_num": 11,
+      "channel": "Meta",
+      "spend": 2266.59,
+      "conversions": 209
+    },
+    {
+      "year": 2024,
+      "month": "Dec",
+      "month_num": 12,
+      "channel": "Meta",
+      "spend": 2899.53,
+      "conversions": 229
+    },
+    {
+      "year": 2024,
+      "month": "Dec",
+      "month_num": 12,
+      "channel": "Google",
+      "spend": 5324.29,
+      "conversions": 229
+    },
+    {
+      "year": 2025,
+      "month": "Jan",
+      "month_num": 1,
+      "channel": "Meta",
+      "spend": 2775.15,
+      "conversions": 233
+    },
+    {
+      "year": 2025,
+      "month": "Jan",
+      "month_num": 1,
+      "channel": "Google",
+      "spend": 5959.8,
+      "conversions": 290
+    },
+    {
+      "year": 2025,
+      "month": "Feb",
+      "month_num": 2,
+      "channel": "Google",
+      "spend": 4890.04,
+      "conversions": 218
+    },
+    {
+      "year": 2025,
+      "month": "Feb",
+      "month_num": 2,
+      "channel": "Meta",
+      "spend": 2609.66,
+      "conversions": 217
+    },
+    {
+      "year": 2025,
+      "month": "Mar",
+      "month_num": 3,
+      "channel": "Google",
+      "spend": 5453.68,
+      "conversions": 214
+    },
+    {
+      "year": 2025,
+      "month": "Mar",
+      "month_num": 3,
+      "channel": "Meta",
+      "spend": 2492.06,
+      "conversions": 214
+    },
+    {
+      "year": 2025,
+      "month": "Apr",
+      "month_num": 4,
+      "channel": "Google",
+      "spend": 4920.31,
+      "conversions": 197
+    },
+    {
+      "year": 2025,
+      "month": "Apr",
+      "month_num": 4,
+      "channel": "Meta",
+      "spend": 2502.07,
+      "conversions": 211
+    },
+    {
+      "year": 2025,
+      "month": "May",
+      "month_num": 5,
+      "channel": "Meta",
+      "spend": 2509.13,
+      "conversions": 213
+    },
+    {
+      "year": 2025,
+      "month": "May",
+      "month_num": 5,
+      "channel": "Google",
+      "spend": 4860.81,
+      "conversions": 188
+    },
+    {
+      "year": 2025,
+      "month": "Jun",
+      "month_num": 6,
+      "channel": "Meta",
+      "spend": 2826.37,
+      "conversions": 217
+    },
+    {
+      "year": 2025,
+      "month": "Jun",
+      "month_num": 6,
+      "channel": "Google",
+      "spend": 4744.81,
+      "conversions": 187
+    },
+    {
+      "year": 2025,
+      "month": "Jul",
+      "month_num": 7,
+      "channel": "Meta",
+      "spend": 2530.83,
+      "conversions": 223
+    },
+    {
+      "year": 2025,
+      "month": "Jul",
+      "month_num": 7,
+      "channel": "Google",
+      "spend": 4419.91,
+      "conversions": 173
+    },
+    {
+      "year": 2025,
+      "month": "Aug",
+      "month_num": 8,
+      "channel": "Meta",
+      "spend": 2973.18,
+      "conversions": 261
+    },
+    {
+      "year": 2025,
+      "month": "Aug",
+      "month_num": 8,
+      "channel": "Google",
+      "spend": 5526.82,
+      "conversions": 246
+    },
+    {
+      "year": 2025,
+      "month": "Sep",
+      "month_num": 9,
+      "channel": "Meta",
+      "spend": 2595.07,
+      "conversions": 209
+    },
+    {
+      "year": 2025,
+      "month": "Sep",
+      "month_num": 9,
+      "channel": "Google",
+      "spend": 4634.45,
+      "conversions": 187
+    },
+    {
+      "year": 2025,
+      "month": "Oct",
+      "month_num": 10,
+      "channel": "Meta",
+      "spend": 3040.64,
+      "conversions": 263
+    },
+    {
+      "year": 2025,
+      "month": "Oct",
+      "month_num": 10,
+      "channel": "Google",
+      "spend": 5456.94,
+      "conversions": 218
+    },
+    {
+      "year": 2025,
+      "month": "Nov",
+      "month_num": 11,
+      "channel": "Meta",
+      "spend": 2594.53,
+      "conversions": 207
+    },
+    {
+      "year": 2025,
+      "month": "Nov",
+      "month_num": 11,
+      "channel": "Google",
+      "spend": 4771.2,
+      "conversions": 208
+    },
+    {
+      "year": 2025,
+      "month": "Dec",
+      "month_num": 12,
+      "channel": "Meta",
+      "spend": 3108.86,
+      "conversions": 246
+    },
+    {
+      "year": 2025,
+      "month": "Dec",
+      "month_num": 12,
+      "channel": "Google",
+      "spend": 5085.92,
+      "conversions": 233
+    },
+    {
+      "year": 2026,
+      "month": "Jan",
+      "month_num": 1,
+      "channel": "Google",
+      "spend": 5390.1,
+      "conversions": 220
+    },
+    {
+      "year": 2026,
+      "month": "Jan",
+      "month_num": 1,
+      "channel": "Meta",
+      "spend": 2620.31,
+      "conversions": 204
+    },
+    {
+      "year": 2026,
+      "month": "Feb",
+      "month_num": 2,
+      "channel": "Google",
+      "spend": 4304.1,
+      "conversions": 168
+    },
+    {
+      "year": 2026,
+      "month": "Feb",
+      "month_num": 2,
+      "channel": "Meta",
+      "spend": 2380.56,
+      "conversions": 202
+    },
+    {
+      "year": 2026,
+      "month": "Mar",
+      "month_num": 3,
+      "channel": "Meta",
+      "spend": 2759.83,
+      "conversions": 228
+    },
+    {
+      "year": 2026,
+      "month": "Mar",
+      "month_num": 3,
+      "channel": "Google",
+      "spend": 5050.42,
+      "conversions": 210
+    },
+    {
+      "year": 2026,
+      "month": "Apr",
+      "month_num": 4,
+      "channel": "Meta",
+      "spend": 2689.82,
+      "conversions": 240
+    },
+    {
+      "year": 2026,
+      "month": "Apr",
+      "month_num": 4,
+      "channel": "Google",
+      "spend": 5457.0,
+      "conversions": 240
+    },
+    {
+      "year": 2026,
+      "month": "May",
+      "month_num": 5,
+      "channel": "Meta",
+      "spend": 2687.14,
+      "conversions": 214
+    },
+    {
+      "year": 2026,
+      "month": "May",
+      "month_num": 5,
+      "channel": "Google",
+      "spend": 5378.26,
+      "conversions": 200
+    },
+    {
+      "year": 2026,
+      "month": "Jun",
+      "month_num": 6,
+      "channel": "Google",
+      "spend": 5116.81,
+      "conversions": 224
+    },
+    {
+      "year": 2026,
+      "month": "Jun",
+      "month_num": 6,
+      "channel": "Meta",
+      "spend": 2649.71,
+      "conversions": 234
+    },
+    {
+      "year": 2026,
+      "month": "Jul",
+      "month_num": 7,
+      "channel": "Meta",
+      "spend": 2396.64,
+      "conversions": 194
+    },
+    {
+      "year": 2026,
+      "month": "Jul",
+      "month_num": 7,
+      "channel": "Google",
+      "spend": 5266.19,
+      "conversions": 236
+    },
+    {
+      "year": 2026,
+      "month": "Aug",
+      "month_num": 8,
+      "channel": "Meta",
+      "spend": 1377.48,
+      "conversions": 142
+    },
+    {
+      "year": 2026,
+      "month": "Aug",
+      "month_num": 8,
+      "channel": "Google",
+      "spend": 3076.4,
+      "conversions": 143
+    }
+  ],
+  "channel_performance_by_year": [
+    {
+      "year": 2024,
+      "channel": "Google",
+      "new_customers": 1142,
+      "avg_ltv": 356.35,
+      "total_spend": 22084.36,
+      "cac": 19.34,
+      "total_revenue": 74764.49,
+      "roas": 3.39,
+      "ltv_to_cac_ratio": 18.43
+    },
+    {
+      "year": 2024,
+      "channel": "Meta",
+      "new_customers": 909,
+      "avg_ltv": 328.04,
+      "total_spend": 11806.52,
+      "cac": 12.99,
+      "total_revenue": 64462.7,
+      "roas": 5.46,
+      "ltv_to_cac_ratio": 25.26
+    },
+    {
+      "year": 2025,
+      "channel": "Google",
+      "new_customers": 2962,
+      "avg_ltv": 249.41,
+      "total_spend": 60724.69,
+      "cac": 20.5,
+      "total_revenue": 155283.48,
+      "roas": 2.56,
+      "ltv_to_cac_ratio": 12.17
+    },
+    {
+      "year": 2025,
+      "channel": "Meta",
+      "new_customers": 2530,
+      "avg_ltv": 243.75,
+      "total_spend": 32557.55,
+      "cac": 12.87,
+      "total_revenue": 128359.81,
+      "roas": 3.94,
+      "ltv_to_cac_ratio": 18.94
+    },
+    {
+      "year": 2026,
+      "channel": "Google",
+      "new_customers": 1861,
+      "avg_ltv": 91.4,
+      "total_spend": 39039.28,
+      "cac": 20.98,
+      "total_revenue": 72328.96,
+      "roas": 1.85,
+      "ltv_to_cac_ratio": 4.36
+    },
+    {
+      "year": 2026,
+      "channel": "Meta",
+      "new_customers": 1587,
+      "avg_ltv": 82.21,
+      "total_spend": 19561.49,
+      "cac": 12.33,
+      "total_revenue": 51300.9,
+      "roas": 2.62,
+      "ltv_to_cac_ratio": 6.67
+    }
+  ],
+  "channel_performance_all_time": [
+    {
+      "channel": "Meta",
+      "total_spend": 63925.56,
+      "new_customers": 5026,
+      "cac": 12.72,
+      "total_revenue": 244123.41,
+      "roas": 3.82,
+      "avg_ltv": 207.99,
+      "ltv_to_cac_ratio": 16.35
+    },
+    {
+      "channel": "Google",
+      "total_spend": 121848.33,
+      "new_customers": 5965,
+      "cac": 20.43,
+      "total_revenue": 302376.93,
+      "roas": 2.48,
+      "avg_ltv": 220.59,
+      "ltv_to_cac_ratio": 10.8
+    }
+  ],
+  "funnel_by_year": [
+    {
+      "year": 2024,
+      "event_name": "page_view",
+      "event_count": 10520,
+      "stage_order": 1
+    },
+    {
+      "year": 2024,
+      "event_name": "view_item",
+      "event_count": 5772,
+      "stage_order": 2
+    },
+    {
+      "year": 2024,
+      "event_name": "add_to_cart",
+      "event_count": 1784,
+      "stage_order": 3
+    },
+    {
+      "year": 2024,
+      "event_name": "begin_checkout",
+      "event_count": 978,
+      "stage_order": 4
+    },
+    {
+      "year": 2024,
+      "event_name": "purchase",
+      "event_count": 625,
+      "stage_order": 5
+    },
+    {
+      "year": 2025,
+      "event_name": "page_view",
+      "event_count": 49266,
+      "stage_order": 1
+    },
+    {
+      "year": 2025,
+      "event_name": "view_item",
+      "event_count": 27044,
+      "stage_order": 2
+    },
+    {
+      "year": 2025,
+      "event_name": "add_to_cart",
+      "event_count": 8175,
+      "stage_order": 3
+    },
+    {
+      "year": 2025,
+      "event_name": "begin_checkout",
+      "event_count": 4514,
+      "stage_order": 4
+    },
+    {
+      "year": 2025,
+      "event_name": "purchase",
+      "event_count": 2959,
+      "stage_order": 5
+    },
+    {
+      "year": 2026,
+      "event_name": "page_view",
+      "event_count": 38420,
+      "stage_order": 1
+    },
+    {
+      "year": 2026,
+      "event_name": "view_item",
+      "event_count": 21164,
+      "stage_order": 2
+    },
+    {
+      "year": 2026,
+      "event_name": "add_to_cart",
+      "event_count": 6345,
+      "stage_order": 3
+    },
+    {
+      "year": 2026,
+      "event_name": "begin_checkout",
+      "event_count": 3521,
+      "stage_order": 4
+    },
+    {
+      "year": 2026,
+      "event_name": "purchase",
+      "event_count": 2273,
+      "stage_order": 5
+    }
+  ],
+  "funnel_all_time": [
+    {
+      "event_name": "page_view",
+      "event_count": 98206,
+      "stage_order": 1
+    },
+    {
+      "event_name": "view_item",
+      "event_count": 53980,
+      "stage_order": 2
+    },
+    {
+      "event_name": "add_to_cart",
+      "event_count": 16304,
+      "stage_order": 3
+    },
+    {
+      "event_name": "begin_checkout",
+      "event_count": 9013,
+      "stage_order": 4
+    },
+    {
+      "event_name": "purchase",
+      "event_count": 5857,
+      "stage_order": 5
+    }
+  ],
+  "retention_by_year": [
+    {
+      "year": 2024,
+      "month": "Aug",
+      "month_num": 8,
+      "active_customers": 178,
+      "retained_next_month": 143,
+      "retention_rate_pct": 80.3
+    },
+    {
+      "year": 2024,
+      "month": "Sep",
+      "month_num": 9,
+      "active_customers": 884,
+      "retained_next_month": 541,
+      "retention_rate_pct": 61.2
+    },
+    {
+      "year": 2024,
+      "month": "Oct",
+      "month_num": 10,
+      "active_customers": 1373,
+      "retained_next_month": 758,
+      "retention_rate_pct": 55.2
+    },
+    {
+      "year": 2024,
+      "month": "Nov",
+      "month_num": 11,
+      "active_customers": 1644,
+      "retained_next_month": 898,
+      "retention_rate_pct": 54.6
+    },
+    {
+      "year": 2024,
+      "month": "Dec",
+      "month_num": 12,
+      "active_customers": 1876,
+      "retained_next_month": 985,
+      "retention_rate_pct": 52.5
+    },
+    {
+      "year": 2025,
+      "month": "Jan",
+      "month_num": 1,
+      "active_customers": 1920,
+      "retained_next_month": 999,
+      "retention_rate_pct": 52.0
+    },
+    {
+      "year": 2025,
+      "month": "Feb",
+      "month_num": 2,
+      "active_customers": 1907,
+      "retained_next_month": 1045,
+      "retention_rate_pct": 54.8
+    },
+    {
+      "year": 2025,
+      "month": "Mar",
+      "month_num": 3,
+      "active_customers": 2053,
+      "retained_next_month": 1093,
+      "retention_rate_pct": 53.2
+    },
+    {
+      "year": 2025,
+      "month": "Apr",
+      "month_num": 4,
+      "active_customers": 2148,
+      "retained_next_month": 1117,
+      "retention_rate_pct": 52.0
+    },
+    {
+      "year": 2025,
+      "month": "May",
+      "month_num": 5,
+      "active_customers": 2195,
+      "retained_next_month": 1091,
+      "retention_rate_pct": 49.7
+    },
+    {
+      "year": 2025,
+      "month": "Jun",
+      "month_num": 6,
+      "active_customers": 2177,
+      "retained_next_month": 1118,
+      "retention_rate_pct": 51.4
+    },
+    {
+      "year": 2025,
+      "month": "Jul",
+      "month_num": 7,
+      "active_customers": 2351,
+      "retained_next_month": 1177,
+      "retention_rate_pct": 50.1
+    },
+    {
+      "year": 2025,
+      "month": "Aug",
+      "month_num": 8,
+      "active_customers": 2437,
+      "retained_next_month": 1193,
+      "retention_rate_pct": 49.0
+    },
+    {
+      "year": 2025,
+      "month": "Sep",
+      "month_num": 9,
+      "active_customers": 2438,
+      "retained_next_month": 1221,
+      "retention_rate_pct": 50.1
+    },
+    {
+      "year": 2025,
+      "month": "Oct",
+      "month_num": 10,
+      "active_customers": 2530,
+      "retained_next_month": 1246,
+      "retention_rate_pct": 49.2
+    },
+    {
+      "year": 2025,
+      "month": "Nov",
+      "month_num": 11,
+      "active_customers": 2604,
+      "retained_next_month": 1306,
+      "retention_rate_pct": 50.2
+    },
+    {
+      "year": 2025,
+      "month": "Dec",
+      "month_num": 12,
+      "active_customers": 2767,
+      "retained_next_month": 1295,
+      "retention_rate_pct": 46.8
+    },
+    {
+      "year": 2026,
+      "month": "Jan",
+      "month_num": 1,
+      "active_customers": 2700,
+      "retained_next_month": 1254,
+      "retention_rate_pct": 46.4
+    },
+    {
+      "year": 2026,
+      "month": "Feb",
+      "month_num": 2,
+      "active_customers": 2675,
+      "retained_next_month": 1314,
+      "retention_rate_pct": 49.1
+    },
+    {
+      "year": 2026,
+      "month": "Mar",
+      "month_num": 3,
+      "active_customers": 2857,
+      "retained_next_month": 1294,
+      "retention_rate_pct": 45.3
+    },
+    {
+      "year": 2026,
+      "month": "Apr",
+      "month_num": 4,
+      "active_customers": 2840,
+      "retained_next_month": 1307,
+      "retention_rate_pct": 46.0
+    },
+    {
+      "year": 2026,
+      "month": "May",
+      "month_num": 5,
+      "active_customers": 2925,
+      "retained_next_month": 1361,
+      "retention_rate_pct": 46.5
+    },
+    {
+      "year": 2026,
+      "month": "Jun",
+      "month_num": 6,
+      "active_customers": 3012,
+      "retained_next_month": 1392,
+      "retention_rate_pct": 46.2
+    },
+    {
+      "year": 2026,
+      "month": "Jul",
+      "month_num": 7,
+      "active_customers": 3133,
+      "retained_next_month": 955,
+      "retention_rate_pct": 30.5
+    },
+    {
+      "year": 2026,
+      "month": "Aug",
+      "month_num": 8,
+      "active_customers": 1897,
+      "retained_next_month": 0,
+      "retention_rate_pct": 0.0
+    }
+  ],
+  "churn_risk_bands_by_year": [
+    {
+      "year": 2024,
+      "churn_risk_band": "Low Risk",
+      "customer_count": 1184,
+      "avg_predicted_ltv": 485.93
+    },
+    {
+      "year": 2025,
+      "churn_risk_band": "High Risk",
+      "customer_count": 181,
+      "avg_predicted_ltv": 244.74
+    },
+    {
+      "year": 2025,
+      "churn_risk_band": "Low Risk",
+      "customer_count": 1148,
+      "avg_predicted_ltv": 387.28
+    },
+    {
+      "year": 2025,
+      "churn_risk_band": "Medium Risk",
+      "customer_count": 1701,
+      "avg_predicted_ltv": 298.64
+    },
+    {
+      "year": 2026,
+      "churn_risk_band": "High Risk",
+      "customer_count": 641,
+      "avg_predicted_ltv": 124.21
+    },
+    {
+      "year": 2026,
+      "churn_risk_band": "Medium Risk",
+      "customer_count": 1370,
+      "avg_predicted_ltv": 94.9
+    }
+  ],
+  "propensity_bands_by_year": [
+    {
+      "year": 2024,
+      "propensity_band": "High",
+      "customer_count": 1788
+    },
+    {
+      "year": 2024,
+      "propensity_band": "Low",
+      "customer_count": 685
+    },
+    {
+      "year": 2024,
+      "propensity_band": "Medium",
+      "customer_count": 1293
+    },
+    {
+      "year": 2025,
+      "propensity_band": "High",
+      "customer_count": 3844
+    },
+    {
+      "year": 2025,
+      "propensity_band": "Low",
+      "customer_count": 2377
+    },
+    {
+      "year": 2025,
+      "propensity_band": "Medium",
+      "customer_count": 3724
+    },
+    {
+      "year": 2026,
+      "propensity_band": "High",
+      "customer_count": 1253
+    },
+    {
+      "year": 2026,
+      "propensity_band": "Low",
+      "customer_count": 2389
+    },
+    {
+      "year": 2026,
+      "propensity_band": "Medium",
+      "customer_count": 2647
+    }
+  ],
+  "ab_test_by_year": [
+    {
+      "year": 2026,
+      "variant": "A",
+      "total_assigned": 3484,
+      "total_converted": 840,
+      "conversion_rate_pct": 24.11
+    },
+    {
+      "year": 2026,
+      "variant": "B",
+      "total_assigned": 3432,
+      "total_converted": 997,
+      "conversion_rate_pct": 29.05
+    }
+  ],
+  "ab_test_all_time": [
+    {
+      "variant": "A",
+      "total_assigned": 3484,
+      "total_converted": 840,
+      "conversion_rate_pct": 24.11
+    },
+    {
+      "variant": "B",
+      "total_assigned": 3432,
+      "total_converted": 997,
+      "conversion_rate_pct": 29.05
+    }
+  ]
+}

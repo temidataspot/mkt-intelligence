@@ -1,0 +1,13 @@
+churn_risk_band,propensity_band,customer_count,avg_predicted_ltv
+High Risk,High Propensity,315,184.08
+High Risk,Low Propensity,147,130.57
+High Risk,Medium Propensity,360,129.82
+Low Risk,High Propensity,1134,470.38
+Low Risk,Low Propensity,398,402.7
+Low Risk,Medium Propensity,800,407.82
+Medium Risk,High Propensity,881,285.71
+Medium Risk,Low Propensity,889,158.97
+Medium Risk,Medium Propensity,1301,188.29
+N/A (not subscriber),High Propensity,4555,84.28
+N/A (not subscriber),Low Propensity,4017,31.51
+N/A (not subscriber),Medium Propensity,5203,55.56
