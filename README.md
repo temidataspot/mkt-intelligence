@@ -5,7 +5,7 @@
 
 *Looker [Google Data Studio]* → [![Looker](https://img.shields.io/badge/Looker%20Dashboard-250e14)](https://datastudio.google.com/reporting/e034ed39-f62b-4f19-bbaa-2bd30f7f4cb4)
 
-*Vercel * → [![Vercel Dashboard](https://img.shields.io/badge/Vercel%20Dashboard-7a6116)](https://mkt-intelligence1.vercel.app/)
+*Vercel* → [![Vercel Dashboard](https://img.shields.io/badge/Vercel%20Dashboard-7a6116)](https://mkt-intelligence1.vercel.app/)
 
 
 Intelligence for a hybrid e-commerce + SaaS company:
